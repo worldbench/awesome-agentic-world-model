@@ -2,12 +2,12 @@
 
 # Awesome Agentic World Modeling
 
-This repository accompanies the position paper **"Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents,"** and curates the works it reviews. The survey argues for a shift from a **World Model** that passively predicts the next physical state toward an **Agent-Centric World Proxy** — an environment-grounded interface that returns the *information transition* an agent needs (a future state, rendered view, execution result, retrieved memory or skill, or verdict on a plan) to plan, learn, and continually improve.
+This repository accompanies the position paper **"Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents,"** and curates the works it reviews. The survey argues for a shift from a **World Model** that passively predicts the next physical state toward an **Agent-Centric World Proxy**: an environment-grounded interface that returns the *information transition* an agent needs (a future state, rendered view, execution result, retrieved memory or skill, or verdict on a plan) to plan, learn, and continually improve.
 
 The taxonomy has two orthogonal axes:
 
-- **Six proxy functions** — *what* feedback the proxy returns: **Dynamics**, **Spatial**, **Execution**, **Memory / Experience**, **Skill**, and **Reward / Verification**.
-- **Three empowerment levels** — *how* the proxy improves the agent: <kbd>L1</kbd> inference-time guidance, <kbd>L2</kbd> training-time optimization, and <kbd>L3</kbd> Agent–Proxy co-evolution.
+- **Six proxy functions** (*what* feedback the proxy returns): **Dynamics**, **Spatial**, **Execution**, **Memory / Experience**, **Skill**, and **Reward / Verification**.
+- **Three empowerment levels** (*how* the proxy improves the agent): <kbd>L1</kbd> inference-time guidance, <kbd>L2</kbd> training-time optimization, and <kbd>L3</kbd> Agent-Proxy co-evolution.
 
 ## Citation
 
@@ -25,14 +25,14 @@ If you find this work useful, please consider citing:
 
 ## Call for Contributions
 
-Agentic world modeling moves fast, and the boundary between a passive *world model* and an agent-facing *world proxy* is still being drawn. This list aims to be a living, community-maintained map of that space — contributions of new work, and corrections, are very welcome.
+Agentic world modeling moves fast, and the boundary between a passive *world model* and an agent-facing *world proxy* is still being drawn. This list aims to be a living, community-maintained map of that space, and contributions of new work or corrections are very welcome.
 
 To contribute, open an issue or a pull request:
 
 - **Where:** add each entry to the section matching its proxy function (or the closest one), and keep every table in chronological order.
-- **Format:** follow the existing row layout — a short model name in `Model` (or `-` if none), the title with an arXiv badge in `Paper`, and the abbreviated venue with year in `Venue`.
+- **Format:** follow the existing row layout: a short model name in `Model` (or `-` if none), the title with an arXiv badge in `Paper`, and the abbreviated venue with year in `Venue`.
 - **Verify:** check the title, authors, arXiv ID, and venue against the primary source before adding, and prefer the formally published version whenever one exists.
-- **Fix:** corrections to venues, broken links, or mis-categorized entries are equally welcome — flag them in an issue or fix them directly in a pull request.
+- **Fix:** corrections to venues, broken links, or mis-categorized entries are equally welcome; flag them in an issue or fix them directly in a pull request.
 
 ## Table of Contents
 
@@ -72,7 +72,7 @@ Foundations: state-transition world models and model-based RL that predict the n
 
 ## Continual Improvement & Interaction Cost
 
-Why real-environment interaction alone cannot carry continual improvement — cost, safety, latency, and the need for scalable feedback.
+Why real-environment interaction alone cannot carry continual improvement: cost, safety, latency, and the need for scalable feedback.
 
 | Model | Paper | Venue |
 |:-:|:-|:-:|
@@ -254,7 +254,7 @@ Each proxy function answers a different *question* for the agent, but all return
 
 ## Reward / Verification Proxy
 
-*Is the agent's behavior correct, safe, and feasible — and how should it improve?* Reward models, verifiers, critics, preference models, and LLM-as-judge.
+*Is the agent's behavior correct, safe, and feasible, and how should it improve?* Reward models, verifiers, critics, preference models, and LLM-as-judge.
 
 | Model | Paper | Venue |
 |:-:|:-|:-:|
@@ -278,7 +278,7 @@ Each proxy function answers a different *question* for the agent, but all return
 
 # Empowerment Levels (L1 / L2 / L3)
 
-How proxies empower agents: <kbd>L1</kbd> inference-time guidance (advise a frozen agent), <kbd>L2</kbd> training-time optimization (generate experience/signal to train the agent), and <kbd>L3</kbd> Agent–Proxy co-evolution (both improve each other in a loop).
+How proxies empower agents: <kbd>L1</kbd> inference-time guidance (advise a frozen agent), <kbd>L2</kbd> training-time optimization (generate experience/signal to train the agent), and <kbd>L3</kbd> Agent-Proxy co-evolution (both improve each other in a loop).
 
 | Model | Paper | Venue |
 |:-:|:-|:-:|
