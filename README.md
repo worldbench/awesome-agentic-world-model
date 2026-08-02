@@ -6,9 +6,6 @@ This repository accompanies the position paper **"Quo Vadis, World Modeling? Tow
 
 The taxonomy has two orthogonal axes. **Six proxy functions** describe *what* feedback the proxy returns — **Dynamics**, **Spatial**, **Execution**, **Memory / Experience**, **Skill**, and **Reward / Verification** — and **three empowerment levels** describe *how* the proxy improves the agent: <kbd>L1</kbd> inference-time guidance, <kbd>L2</kbd> training-time optimization, and <kbd>L3</kbd> Agent–Proxy co-evolution.
 
-> **Authors:** Yu Yang, Xuemeng Yang, Licheng Wen, Lingdong Kong, Jiangning Zhang, Xiaobin Hu, Dongyue Lu, Wei Chow, Xiyan Huang, Yuxiang Feng, Yue Liao, Jianbiao Mei, Daocheng Fu, Rong Wu, Pinlong Cai, Botian Shi, Yong Liu, Shuicheng Yan
-> **Affiliations:** KnowledgeX Lab @ Shanghai AI Laboratory · APRIL Lab @ Zhejiang University · LV-Lab @ National University of Singapore
-
 ## Citation
 
 If you find this work useful, please consider citing:
@@ -23,9 +20,11 @@ If you find this work useful, please consider citing:
 ```
 <!-- TODO: replace XXXX.XXXXX with the arXiv ID and the badge/link above once the paper is posted. -->
 
-## Contributing
+## Call for Contributions
 
-Suggestions, new references, and corrections are very welcome — please open an issue or a pull request. Entries are grouped by proxy function and sorted chronologically; the `Model` column is left as `-` when a work has no short name.
+Agentic world modeling is moving quickly: new proxy functions, benchmarks, and agent–proxy training loops appear almost every month, and the boundary between a passive *world model* and an agent-facing *world proxy* is still being drawn. This list aims to be a living map of that space — a single place to track how dynamics, spatial, execution, memory, skill, and reward/verification proxies empower agents across inference-time guidance, training-time optimization, and co-evolution. Keeping it current and accurate depends on the community: authors know their own work best, and readers routinely catch what maintainers miss.
+
+To contribute, open an issue or a pull request. For a new entry, add it to the section matching its proxy function (or the closest one), keep each table in chronological order, and follow the existing row format — a short model name in the `Model` column (or `-` if there is none), the paper title with an arXiv badge in the `Paper` column, and the abbreviated venue with year in the `Venue` column. Please verify the title, authors, arXiv ID, and venue against the primary source before adding, and prefer the formally published version whenever one exists. Corrections to venues, broken links, or mis-categorized entries are equally welcome — flag them in an issue or fix them directly in a pull request.
 
 ## Table of Contents
 
