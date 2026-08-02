@@ -2,9 +2,12 @@
 
 # Awesome Agentic World Modeling
 
-This repository accompanies the position paper **"Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents."** It curates the works discussed in the survey and argues for a shift in world modeling: from a **World Model** that passively predicts the next physical state, toward an **Agent-Centric World Proxy** — an environment-grounded interface that returns the *information transition* an agent needs (a future state, a rendered view, an execution result, a retrieved memory or skill, or a verdict on a plan) to plan, learn, and continually improve.
+This repository accompanies the position paper **"Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents,"** and curates the works it reviews. The survey argues for a shift from a **World Model** that passively predicts the next physical state toward an **Agent-Centric World Proxy** — an environment-grounded interface that returns the *information transition* an agent needs (a future state, rendered view, execution result, retrieved memory or skill, or verdict on a plan) to plan, learn, and continually improve.
 
-The taxonomy has two orthogonal axes. **Six proxy functions** describe *what* feedback the proxy returns — **Dynamics**, **Spatial**, **Execution**, **Memory / Experience**, **Skill**, and **Reward / Verification** — and **three empowerment levels** describe *how* the proxy improves the agent: <kbd>L1</kbd> inference-time guidance, <kbd>L2</kbd> training-time optimization, and <kbd>L3</kbd> Agent–Proxy co-evolution.
+The taxonomy has two orthogonal axes:
+
+- **Six proxy functions** — *what* feedback the proxy returns: **Dynamics**, **Spatial**, **Execution**, **Memory / Experience**, **Skill**, and **Reward / Verification**.
+- **Three empowerment levels** — *how* the proxy improves the agent: <kbd>L1</kbd> inference-time guidance, <kbd>L2</kbd> training-time optimization, and <kbd>L3</kbd> Agent–Proxy co-evolution.
 
 ## Citation
 
