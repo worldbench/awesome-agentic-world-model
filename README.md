@@ -22,9 +22,14 @@ If you find this work useful, please consider citing:
 
 ## Call for Contributions
 
-Agentic world modeling is moving quickly: new proxy functions, benchmarks, and agent–proxy training loops appear almost every month, and the boundary between a passive *world model* and an agent-facing *world proxy* is still being drawn. This list aims to be a living map of that space — a single place to track how dynamics, spatial, execution, memory, skill, and reward/verification proxies empower agents across inference-time guidance, training-time optimization, and co-evolution. Keeping it current and accurate depends on the community: authors know their own work best, and readers routinely catch what maintainers miss.
+Agentic world modeling moves fast, and the boundary between a passive *world model* and an agent-facing *world proxy* is still being drawn. This list aims to be a living, community-maintained map of that space — contributions of new work, and corrections, are very welcome.
 
-To contribute, open an issue or a pull request. For a new entry, add it to the section matching its proxy function (or the closest one), keep each table in chronological order, and follow the existing row format — a short model name in the `Model` column (or `-` if there is none), the paper title with an arXiv badge in the `Paper` column, and the abbreviated venue with year in the `Venue` column. Please verify the title, authors, arXiv ID, and venue against the primary source before adding, and prefer the formally published version whenever one exists. Corrections to venues, broken links, or mis-categorized entries are equally welcome — flag them in an issue or fix them directly in a pull request.
+To contribute, open an issue or a pull request:
+
+- **Where:** add each entry to the section matching its proxy function (or the closest one), and keep every table in chronological order.
+- **Format:** follow the existing row layout — a short model name in `Model` (or `-` if none), the title with an arXiv badge in `Paper`, and the abbreviated venue with year in `Venue`.
+- **Verify:** check the title, authors, arXiv ID, and venue against the primary source before adding, and prefer the formally published version whenever one exists.
+- **Fix:** corrections to venues, broken links, or mis-categorized entries are equally welcome — flag them in an issue or fix them directly in a pull request.
 
 ## Table of Contents
 
