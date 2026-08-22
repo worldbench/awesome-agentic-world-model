@@ -128,6 +128,55 @@ Each proxy function answers a different *question* for the agent, but all return
 | `U4D` | [![arXiv](https://img.shields.io/badge/arXiv-2512.02982-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.02982)<br>U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences | CVPR 2026 |
 | `AD-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2511.20325-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.20325)<br>AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models | CVPR 2026 |
 | `SPIRAL` | [![arXiv](https://img.shields.io/badge/arXiv-2603.08403-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08403)<br>SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents | arXiv 2026 |
+| `FlowWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.13017)<br>FlowWAM: Optical Flow as a Unified Action Representation for World Action Models | arXiv 2026 |
+| `LeapBot` | [![arXiv](https://img.shields.io/badge/arXiv-2607.23969-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.23969)<br>LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments | arXiv 2026 |
+| `Enfold` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26657-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26657)<br>Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27599-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27599)<br>World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models | arXiv 2026 |
+| `Auto` | [![arXiv](https://img.shields.io/badge/arXiv-2607.29031-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.29031)<br>Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving | arXiv 2026 |
+| `Faster` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02365-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02365)<br>Faster-WAM: Do World Action Models Need Deep Action Modules? | arXiv 2026 |
+| `DF$^3$` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02428-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02428)<br>DF$^3$: World Modeling via Decoder-Free Feature Forecasting in Autonomous Navigation | arXiv 2026 |
+| `SG` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01397-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01397)<br>SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space | arXiv 2026 |
+| `LAWM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05706-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05706)<br>LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models | arXiv 2026 |
+| `XEWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05799-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05799)<br>XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments? | arXiv 2026 |
+| `Adaptive` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06008-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06008)<br>Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features | arXiv 2026 |
+| `GWM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07619-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07619)<br>GWM-VLA: Geometry-Aware Latent World Modeling for Vision-Language-Action Learning | arXiv 2026 |
+| `4D` | [![arXiv](https://img.shields.io/badge/arXiv-2608.08023-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.08023)<br>4D-WAM: Infusing Spatiotemporal Awareness into World Action Models through Trajectory Fields | arXiv 2026 |
+| `WA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.08725-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.08725)<br>WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models | arXiv 2026 |
+| `JEPA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09381-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09381)<br>JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09730-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09730)<br>World Tokens: Enhancing Embodied Policies with Training-Time World Modeling | arXiv 2026 |
+| `SLIM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09771-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09771)<br>SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation | arXiv 2026 |
+| `Energy` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09876)<br>Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning | arXiv 2026 |
+| `Dreamer` | [![arXiv](https://img.shields.io/badge/arXiv-2608.10386-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.10386)<br>Dreamer-SAC: Off-Policy Learning in Latent World Models for Sample-Efficient Autonomous Driving | arXiv 2026 |
+| `BrainWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.12854-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.12854)<br>BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving | arXiv 2026 |
+| `DreamX` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13489-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13489)<br>DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation | arXiv 2026 |
+| `ForgeWM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14022-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14022)<br>ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17163-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17163)<br>Q-Learning With World Models | arXiv 2026 |
+| `Hydra` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18077-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18077)<br>Hydra-0: Action Flow for Generalist World Modeling and Control | arXiv 2026 |
+| `GigaBrain` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18234-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18234)<br>GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18669-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18669)<br>Reinforced Planning with Latent World Models | arXiv 2026 |
+| `DA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19085-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19085)<br>DA-WAM: Decision-Aligned Future Latents for Driving World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26924-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26924)<br>Temporally Centered SIGReg Improves Multi-Task LeWorldModel Learning: From Analysis to Method | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.04653-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.04653)<br>Overcoming Statistical Bias in Action-Controllable World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27036-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27036)<br>Mitigating Compounding Error via Video Representation Regularization | arXiv 2026 |
+| `ODEWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27924-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27924)<br>ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow | arXiv 2026 |
+| `GeniWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06332-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06332)<br>GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | arXiv 2026 |
+| `ContactFlow` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26579-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26579)<br>ContactFlow: A video action conditioning that transfers across embodiments | arXiv 2026 |
+| `EmbodiedVAE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02990-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02990)<br>EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16885-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16885)<br>$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation | arXiv 2026 |
+| `Depth` | [![arXiv](https://img.shields.io/badge/arXiv-2607.16314-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.16314)<br>Depth-Regularized JEPA World Models Learn More Transferable Representations from Real Outdoor Robot Data | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06799-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06799)<br>Is Forward Prediction Enough? Physical State Grounding for JEPA World Models | arXiv 2026 |
+| `Xiaomi` | [![arXiv](https://img.shields.io/badge/arXiv-2607.11643-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.11643)<br>Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model | arXiv 2026 |
+| `MiniWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01127-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01127)<br>MiniWorld: Democratizing the Training of Video World Models from Scratch | arXiv 2026 |
+| `BWM` | [![arXiv](https://img.shields.io/badge/arXiv-2607.29302-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.29302)<br>BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning | arXiv 2026 |
+| `S2` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13103-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13103)<br>S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.21594-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.21594)<br>Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | arXiv 2026 |
+| `Population` | [![arXiv](https://img.shields.io/badge/arXiv-2608.08600-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.08600)<br>Population-Scalable Multi-Agent World Modeling | arXiv 2026 |
+| `DreamQAS` | [![arXiv](https://img.shields.io/badge/arXiv-2607.29491-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.29491)<br>DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search | arXiv 2026 |
+| `FedWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01561-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01561)<br>FedWorld: Scope-Aware Federation of Agent World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17739-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17739)<br>Offline Multi-Agent Reinforcement Learning with a Physics-Informed World Model for Cooperative Mixed Traffic Control | arXiv 2026 |
+| `DreamTrajectory` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01381-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01381)<br>DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation | arXiv 2026 |
+| `EndoWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01221-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01221)<br>EndoWAM: A Grounded World-Action Model for Generalizable Endoscopic Navigation | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.11204-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.11204)<br>Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | arXiv 2026 |
 
 
 ## Spatial Proxy
@@ -186,6 +235,11 @@ Each proxy function answers a different *question* for the agent, but all return
 | `MVISTA-4D` | [![arXiv](https://img.shields.io/badge/arXiv-2602.09878-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.09878)<br>MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation | arXiv 2026 |
 | `X-scene` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13558)<br>X-scene: Large-scale driving scene generation with high fidelity and flexible controllability | NeurIPS 2026 |
 | `Code2World` | [![arXiv](https://img.shields.io/badge/arXiv-2602.09856-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.09856)<br>Code2World: A GUI World Model via Renderable Code Generation | arXiv 2026 |
+| `UniNav` | [![arXiv](https://img.shields.io/badge/arXiv-2608.03244-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.03244)<br>UniNav: A Unified World-Action Diffusion Model for Visual Navigation | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07548-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07548)<br>SC$^{2}$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09073-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09073)<br>Latent World Models with Monotone Planning Costs for Image-Goal Navigation | arXiv 2026 |
+| `Orbit` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16651-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16651)<br>Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents | arXiv 2026 |
+| `World` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19661-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19661)<br>World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | arXiv 2026 |
 
 
 ## Execution Proxy
@@ -224,6 +278,9 @@ Each proxy function answers a different *question* for the agent, but all return
 | `NeuralOS` | [![arXiv](https://img.shields.io/badge/arXiv-2507.08800-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.08800)<br>NeuralOS: Towards Simulating Operating Systems via Neural Generative Models | ICLR 2026 |
 | `World-Model` | [![arXiv](https://img.shields.io/badge/arXiv-2602.15384-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.15384)<br>World-Model-Augmented Web Agents with Action Correction | arXiv 2026 |
 | `WebWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2602.14721-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.14721)<br>WebWorld: A Large-Scale World Model for Web Agent Training | arXiv 2026 |
+| `AppDeltaWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05891-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05891)<br>AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents | arXiv 2026 |
+| `WebRider` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06704-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06704)<br>WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance | arXiv 2026 |
+| `Twin` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14490-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14490)<br>Twin: Playing an Unknown Game with a Test-Time Digital Twin | arXiv 2026 |
 
 
 ## Memory, Experience & Skill Proxy
@@ -238,6 +295,13 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2309.02427-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2309.02427)<br>Cognitive Architectures for Language Agents | TMLR 2024 |
 | `Vismem` | [![arXiv](https://img.shields.io/badge/arXiv-2511.11007-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.11007)<br>Vismem: Latent vision memory unlocks potential of vision-language models | arXiv 2025 |
 | `MemHarness` | [![arXiv](https://img.shields.io/badge/arXiv-2607.28272-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.28272)<br>MemHarness: Memory Is Reconstructed, Not Replayed | arXiv 2026 |
+| `MemWM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07107-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07107)<br>MemWM: Memory-Augmented Text-Based World Model | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05784-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05784)<br>Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.12476-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.12476)<br>Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents | arXiv 2026 |
+| `PBD` | [![arXiv](https://img.shields.io/badge/arXiv-2608.10449-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.10449)<br>PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots | arXiv 2026 |
+| `LUCID` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07746-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07746)<br>LUCID: Latent-Skill Unified Control via Imagined Dynamics for Long-Horizon Humanoid Loco-Manipulation | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09168-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09168)<br>From Relevance to Execution Utility: Reward-Aware Dynamic Execution Gating for Skill-Based LLM Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18647-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18647)<br>Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation | arXiv 2026 |
 
 
 ## Reward / Verification Proxy
@@ -262,6 +326,16 @@ Each proxy function answers a different *question* for the agent, but all return
 | `WorldModelBench` | [![arXiv](https://img.shields.io/badge/arXiv-2502.20694-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.20694)<br>WorldModelBench: Judging Video Generation Models As World Models | arXiv 2025 |
 | `Computer` | [![arXiv](https://img.shields.io/badge/arXiv-2511.15567-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.15567)<br>Computer-Use Agents as Judges for Generative User Interface | arXiv 2025 |
 | `Critic-V` | [![arXiv](https://img.shields.io/badge/arXiv-2411.18203-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.18203)<br>Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning | CVPR 2025 |
+| `WCM` | [![arXiv](https://img.shields.io/badge/arXiv-2607.29613-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.29613)<br>WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning | arXiv 2026 |
+| `CheckVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26789)<br>CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation | arXiv 2026 |
+| `ContactGuard` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13438-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13438)<br>ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27511-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27511)<br>Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17496-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17496)<br>Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields | arXiv 2026 |
+| `Ontology` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13901-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13901)<br>Ontology-Grounded World Models for Failure Diagnosis and Closed-Loop Repair in Physical AI Systems | arXiv 2026 |
+| `StructReward` | [![arXiv](https://img.shields.io/badge/arXiv-2608.08326-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.08326)<br>StructReward: Efficient Structured Process Rewards for Self-Correcting Multimodal Reasoning | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07280-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07280)<br>Why Study Emergent Behavior When You Can Regulate It? Aligning Multi-Agent Systems with Reward Prediction | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05643-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05643)<br>Refining Over Resampling: Test-Time Self-Correction for LLM Reasoning | arXiv 2026 |
+| `ARC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13622-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13622)<br>ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction | arXiv 2026 |
 
 
 # Empowerment Levels (L1 / L2 / L3)
@@ -278,6 +352,7 @@ How proxies empower agents: <kbd>L1</kbd> inference-time guidance (advise a froz
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2601.13247-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.13247)<br>Aligning Agentic World Models via Knowledgeable Experience Learning | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2602.10090-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.10090)<br>Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning | ICML 2026 |
 | `SearchGym` | [![arXiv](https://img.shields.io/badge/arXiv-2601.14615-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.14615)<br>SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation | arXiv 2026 |
+| `hint$^2$` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13678-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13678)<br>hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance | arXiv 2026 |
 
 
 # Evaluation, Fidelity & Safety
@@ -301,6 +376,17 @@ Benchmarks and metrics for world models, fidelity and calibration limits, and th
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2601.03905-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.03905)<br>Current Agents Fail to Leverage World Model as Tool for Foresight | arXiv 2026 |
 | `CtrlAttack` | [![arXiv](https://img.shields.io/badge/arXiv-2603.13435-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.13435)<br>CtrlAttack: A Unified Attack on World-Model Control in Diffusion Models | arXiv 2026 |
 | `SafeDream` | [![arXiv](https://img.shields.io/badge/arXiv-2604.16824-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.16824)<br>SafeDream: Safety World Model for Proactive Early Jailbreak Detection | arXiv 2026 |
+| `KineBench` | [![arXiv](https://img.shields.io/badge/arXiv-2607.19876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.19876)<br>KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding | arXiv 2026 |
+| `Apple` | [![arXiv](https://img.shields.io/badge/arXiv-2607.16401-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.16401)<br>Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence | arXiv 2026 |
+| `WorldExam` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02603-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02603)<br>WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity | arXiv 2026 |
+| `GAUGE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05948-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05948)<br>GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models | arXiv 2026 |
+| `H2R` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13049-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13049)<br>H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models | arXiv 2026 |
+| `WorldSimProbe` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09298-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09298)<br>WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation | arXiv 2026 |
+| `VIScore` | [![arXiv](https://img.shields.io/badge/arXiv-2608.11174-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.11174)<br>VIScore: Diagnosing Planning-Relevant Quality in Latent World Models | arXiv 2026 |
+| `HarnessEval` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16859-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16859)<br>HarnessEval-W: Agentifying the Evaluation of Visual Worlds | arXiv 2026 |
+| `CG` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26452-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26452)<br>CG-World: A Large-Scale World-State Dataset and Protocol for World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27017-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27017)<br>What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14481-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14481)<br>Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes | arXiv 2026 |
 
 
 # Surveys & Related Work
@@ -314,6 +400,9 @@ Related surveys and the paper's core position statements.
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.11260)<br>A Survey of World Models for Autonomous Driving | arXiv 2025 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.16732-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.16732)<br>A Comprehensive Survey on World Models for Embodied AI | arXiv 2025 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2604.22748-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.22748)<br>Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.17560-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17560)<br>Reinforcement Learning: From Algorithms To Foundation Models | arXiv 2026 |
+| `Planning` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20111-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20111)<br>Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.10618-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.10618)<br>Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent | arXiv 2026 |
 
 
 # Additional References
