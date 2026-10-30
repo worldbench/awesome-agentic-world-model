@@ -447,6 +447,7 @@ Benchmarks and metrics for world models, fidelity and calibration limits, and th
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14481-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14481)<br>Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes | arXiv 2026 |
 | `StateAliasBench` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32679-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32679)<br>The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models | arXiv 2026 |
 | `GlobeBench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.22708-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.22708)<br>GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations · [Code](https://github.com/patronus-ai/globebench) | arXiv 2026 |
+| `SkillClash` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25064-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25064)<br>One Skill Takes Over: Clashing Agent Skills and a One-File Fix · [Code](https://github.com/prazmara/skillclash) · [Dataset](https://huggingface.co/datasets/prazmara/skillclash) | arXiv 2026 |
 | `AnyGoal` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26844-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26844)<br>AnyGoal: On World Model Generalization Beyond Expert Rollouts · [Code](https://github.com/galilai-group/AnyGoal) · [Project](https://hazel-heejeong-nam.github.io/anygoal/) | arXiv 2026 |
 
 
