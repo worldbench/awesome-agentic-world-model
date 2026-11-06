@@ -347,6 +347,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `AiO-Mem` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21147-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21147)<br>All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents | arXiv 2026 |
 | `MemScope` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21170-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21170)<br>MemScope: Evolving Agent Memory Architectures through Localized Code Repair | arXiv 2026 |
 | `TrackRL` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25126-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25126)<br>Trackable Skill Library Lifecycle Management for Agentic Reinforcement Learning | arXiv 2026 |
+| `FAR` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34677-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34677)<br>Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models · [Code](https://github.com/sony/far) · [Project](https://1202kbs.github.io/FAR-Project-Page/) | arXiv 2026 |
 
 
 ## Reward / Verification Proxy
