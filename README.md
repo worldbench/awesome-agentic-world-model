@@ -188,6 +188,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `EmbodiedWorld-200K` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25959-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25959)<br>EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models · [Project](https://xiaokunfeng.github.io/EmbodiedWorld-200K/) | arXiv 2026 |
 | `Ropedia W0` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26855-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26855)<br>Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience · [Project](https://ropedia.github.io/ropedia-w0/) | arXiv 2026 |
 | `DRILL` | [![arXiv](https://img.shields.io/badge/arXiv-2610.30814-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.30814)<br>DRILL: Training World Models to Improve Policies, Not Predict Pixels | arXiv 2026 |
+| `FlockWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2610.34564-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.34564)<br>FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation · [Code](https://github.com/wangyz1999/flockworld) | NeurIPS 2026 |
 
 
 ## Spatial Proxy
