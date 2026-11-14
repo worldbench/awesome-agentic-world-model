@@ -87,6 +87,9 @@ Each proxy function answers a different *question* for the agent, but all return
 | Model | Paper | Venue |
 |:-:|:-|:-:|
 ||
+| `Σ-LeWM` | [![arXiv](https://img.shields.io/badge/arXiv-2611.12732-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.12732)<br>Σ-LeWM: Learning World Models via S-Information for Robot Control · [Code](https://github.com/zuxinrui/sigma-lewm) · [Project](https://zuxinrui.github.io/sigma-lewm/) | arXiv 2026 |
+| `A²WM` | [![arXiv](https://img.shields.io/badge/arXiv-2611.15011-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.15011)<br>Fast Inference-Time Policy Refinement via Action-Affine World Models | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2611.13592-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.13592)<br>Few-Shot Residual Adaptation of Pretrained Latent World Models | arXiv 2026 |
 | `-` | Learning Latent Dynamics for Planning from Pixels | ICML 2019 |
 | `FitVid` | [![arXiv](https://img.shields.io/badge/arXiv-2106.13195-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2106.13195)<br>FitVid: Overfitting in Pixel-Level Video Prediction | arXiv 2021 |
 | `VideoGPT` | [![arXiv](https://img.shields.io/badge/arXiv-2104.10157-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2104.10157)<br>VideoGPT: Video Generation using VQ-VAE and Transformers | arXiv 2021 |
@@ -311,6 +314,8 @@ Each proxy function answers a different *question* for the agent, but all return
 
 | Model | Paper | Venue |
 |:-:|:-|:-:|
+| `MemCredit` | [![arXiv](https://img.shields.io/badge/arXiv-2611.15600-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.15600)<br>MemCredit: From Relevance to Utility for Decision-Time Memory in Long-Horizon Web Agents | arXiv 2026 |
+| `SimplEvo` | [![arXiv](https://img.shields.io/badge/arXiv-2611.11509-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.11509)<br>Review the Episodes, Refine the Lessons: Simple Memory Evolution for Embodied Agents | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22215-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22215)<br>Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22767-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22767)<br>The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21690-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21690)<br>Context as an Environment: Programmatic Context Management for Long-Horizon Agents | arXiv 2026 |
@@ -423,6 +428,7 @@ Benchmarks and metrics for world models, fidelity and calibration limits, and th
 | Model | Paper | Venue |
 |:-:|:-|:-:|
 ||
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2611.15048-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.15048)<br>Does Your World Model Know Actions Have Consequences? | arXiv 2026 |
 | `G-Eval` | [![arXiv](https://img.shields.io/badge/arXiv-2303.16634-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2303.16634)<br>G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment | EMNLP 2023 |
 | `Length` | [![arXiv](https://img.shields.io/badge/arXiv-2404.04475-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2404.04475)<br>Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators | COLM 2024 |
 | `Prometheus` | [![arXiv](https://img.shields.io/badge/arXiv-2310.08491-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2310.08491)<br>Prometheus: Inducing Fine-Grained Evaluation Capability in Language Models | ICLR 2024 |
